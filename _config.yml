@@ -1,9 +1,9 @@
 title: Ezgi Soylu # your name (or website title) here
 logo: "/images/IMG_9654.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A data-driven professional with a diverse background and a passion for analytics,<br><br>
+  A data-driven professional with a diverse background and a passion for analytics.<br><br>
   I continuously invest in my personal and professional development. <br><br>
-  Currently improving my skills in Data Analytics, Excel, Tableau, SQL.  <br><br>
+  Currently, improving my skills in Data Analytics, Excel, Tableau, SQL.  <br><br>
   <a href="https://www.linkedin.com/in/ezgisoylu/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
