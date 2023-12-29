@@ -14,9 +14,9 @@ In an Excel-based project, I analyzed marketing data from DoorDash(ifood), a maj
  
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Dashboard Analysis: Uncovering School Performance in Massachusetts](https://www.loom.com/share/5bfc24c7bc7e48ba961196704c7efc0e?sid=5653c5e8-93ca-47ff-b461-637b527814bf)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+In the featured video, I present a dashboard analysis showcasing the performance of schools in Massachusetts.The dataset featuring 1,861 schools and nearly a million students, the presentation explores essential insights and trends within the educational landscape of the state.
 
 
 ---
