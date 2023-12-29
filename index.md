@@ -9,7 +9,7 @@
 
 ---
 #### [Excel-Based Marketing Analysis](https://www.linkedin.com/pulse/food-your-doordash-one-click-excel-based-marketing-analysis-soylu-eha0f%3FtrackingId=VYSCknICT9a9E5PefKbT8w%253D%253D/?trackingId=VYSCknICT9a9E5PefKbT8w%3D%3D)
-<img src="images/Food is at your Doordash with one click !  Excel Marketing Analysis copy 2.png?raw=true"/>(https://www.linkedin.com/pulse/food-your-doordash-one-click-excel-based-marketing-analysis-soylu-eha0f%3FtrackingId=VYSCknICT9a9E5PefKbT8w%253D%253D/?trackingId=VYSCknICT9a9E5PefKbT8w%3D%3D)
+<img src="images/Food is at your Doordash with one click !  Excel Marketing Analysis copy 2.png?raw=true"/>
 In an Excel-based project, I analyzed marketing data from DoorDash(ifood), a major food delivery service. I utilized skills such as data cleaning, filtering, sorting, aggregation, formulas, data visualization, VLOOKUP, and Pivot Tables.
  
 
