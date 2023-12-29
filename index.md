@@ -9,8 +9,9 @@
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<img src="images/Food is at your Doordash with one click !  Excel Marketing Analysis copy 2.png?raw=true"/>
+In an Excel-based project, I analyzed marketing data from DoorDash(ifood), a major food delivery service. I utilized skills such as data cleaning, filtering, sorting, aggregation, formulas, data visualization, VLOOKUP, and Pivot Tables.
+ 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
