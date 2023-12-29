@@ -31,11 +31,9 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Excel-Based Marketing Analysis](https://www.linkedin.com/pulse/food-your-doordash-one-click-excel-based-marketing-analysis-soylu-eha0f%3FtrackingId=VYSCknICT9a9E5PefKbT8w%253D%253D/?trackingId=VYSCknICT9a9E5PefKbT8w%3D%3D)
+- [Dashboard Analysis: Uncovering School Performance in Massachusetts](https://www.loom.com/share/5bfc24c7bc7e48ba961196704c7efc0e?sid=5653c5e8-93ca-47ff-b461-637b527814bf)
+- [Finance Analysis with SQL-Coming Soon]()
 
 ---
 
