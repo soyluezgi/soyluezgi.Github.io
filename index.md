@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-<img src="images/Beige Modern Elegant Personal LinkedIn Banner copy.png?raw=true"/>
+<img src="images/2.png?raw=true"/>
 
 
 ---
