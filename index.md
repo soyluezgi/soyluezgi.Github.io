@@ -22,14 +22,11 @@ In the featured video, I present a dashboard analysis showcasing the performance
 ---
 #### [Finance Analysis with SQL-Coming Soon](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
 [<img src="images/pexels-vie-studio-4439444.jpg?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+
 
 ---
 
-### Category Name 2
+### Projects
 
 - [Excel-Based Marketing Analysis](https://www.linkedin.com/pulse/food-your-doordash-one-click-excel-based-marketing-analysis-soylu-eha0f%3FtrackingId=VYSCknICT9a9E5PefKbT8w%253D%253D/?trackingId=VYSCknICT9a9E5PefKbT8w%3D%3D)
 - [Dashboard Analysis: Uncovering School Performance in Massachusetts](https://www.loom.com/share/5bfc24c7bc7e48ba961196704c7efc0e?sid=5653c5e8-93ca-47ff-b461-637b527814bf)
